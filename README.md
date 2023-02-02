@@ -1,2 +1,2 @@
-# erics-resume.github.io
-This is the website of all my project
+# portfolio-website
+ my portfolio website of all my web dev works!
